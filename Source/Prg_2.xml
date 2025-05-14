@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="test" ISN_2="1" LastIsn="1" id="2">
-          <LastModified _date="739384" _time="57134" date="13/05/2025" time="15:52:14"/>
+          <LastModified _date="739385" _time="42921" date="14/05/2025" time="11:55:21"/>
           <Public val="TEST"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
@@ -148,7 +148,7 @@
                   <Type val="V"/>
                   <ExposedToRoute val="N"/>
                   <IsParameter val="N"/>
-                  <_DitIndexForToolkit val="4"/>
+                  <_DitIndexForToolkit val="5"/>
                   <DIFF_UPDATE val="T"/>
                   <Condition val="Y"/>
                   <Modifier val="S"/>
@@ -159,7 +159,7 @@
           </LogicUnit>
         </TaskLogic>
         <TaskForms>
-          <FormEntry _last_isn="5" _last_test_id="5" id="1">
+          <FormEntry _last_isn="6" _last_test_id="6" id="1">
             <PropertyList model="FORM_GUI0">
               <_Comment id="218"/>
               <FormName id="311" valUnicode="test"/>
@@ -173,6 +173,7 @@
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <EnableRTF id="69"/>
+                <_Orientation id="143"/>
               </PropertyList>
             </Control>
             <Control _test_id="1" id="1">
@@ -186,7 +187,18 @@
                 <Height id="24" val="10"/>
                 <Data FieldID="1" id="43"/>
                 <ControlName id="46" val="S"/>
+                <_Orientation id="143"/>
                 <TabOrder id="314" val="1"/>
+              </PropertyList>
+            </Control>
+            <Control _test_id="6" id="6">
+              <PropertyList model="CTRL_GUI0_STATIC">
+                <Text id="19" valUnicode="Aatif Change"/>
+                <X id="21" val="150"/>
+                <Y id="22" val="47"/>
+                <Width id="23" val="78"/>
+                <Height id="24" val="33"/>
+                <EnableRTF id="69"/>
               </PropertyList>
             </Control>
             <Control _test_id="4" id="4">
@@ -198,6 +210,7 @@
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <EnableRTF id="69"/>
+                <_Orientation id="143"/>
               </PropertyList>
             </Control>
             <Control _test_id="3" id="3">
@@ -211,6 +224,7 @@
                 <Height id="24" val="10"/>
                 <Data FieldID="2" id="43"/>
                 <ControlName id="46" val="D"/>
+                <_Orientation id="143"/>
                 <TabOrder id="314" val="2"/>
               </PropertyList>
             </Control>
@@ -222,6 +236,7 @@
                 <Width id="23" val="158"/>
                 <Height id="24" val="37"/>
                 <EnableRTF id="69"/>
+                <_Orientation id="143"/>
               </PropertyList>
             </Control>
           </FormEntry>
