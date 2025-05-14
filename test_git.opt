@@ -13,4 +13,15 @@
     <RestData/>
   </WatchListItems>
 
+  <VisitedTasks>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="1048580"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+  </VisitedTasks>
+
 </Application>
